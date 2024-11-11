@@ -1,0 +1,6 @@
+@SchooLand.Api_HostAddress = http://localhost:5111
+
+GET {{SchooLand.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
